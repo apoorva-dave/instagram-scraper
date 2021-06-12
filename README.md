@@ -1,4 +1,4 @@
-# instagram-scrapper
+# instagram-scraper
 
 This python script is to retrieve list of usernames whom you should unfollow :p (People whom you follow but they don't follow you)
 
