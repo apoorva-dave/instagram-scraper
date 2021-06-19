@@ -7,7 +7,8 @@ This python script is to retrieve list of usernames whom you should unfollow :p 
 `
 python main.py --username <USERNAME> --password <PASSWORD>
 `
-If there are special characters in the password, we will have to escape them using '\'. 
+
+If there are special characters in the password, we will have to escape them using "\\". 
 
 This generates a file named `unfollowers_<USERNAME>.txt` in your directory containing the list of people to unfollow.
 
